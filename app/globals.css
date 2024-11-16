@@ -1,0 +1,6 @@
+@tailwind components;
+
+@import url('styles/app.css');
+@import url('styles/utilities.css');
+@import url('styles/datepicker.css');
+@import url('styles/inputphone.css');
